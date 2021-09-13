@@ -5,5 +5,11 @@ WPU RENCANA KONTEN
   * Codeigniter
 - Javascript Framework
   * Npm
+  * Electron
+  * NodeJs
+  * Angular
+  * Vue
+- Struktur Data
 - Java
 - Vlogs
+- Python
