@@ -1,5 +1,7 @@
 WPU RENCANA KONTEN
 - PHP
 - Javascript Framework
+  * Electron
+  * NodeJs
 - Java
 - Vlogs
