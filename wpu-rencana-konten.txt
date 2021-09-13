@@ -3,6 +3,9 @@ WPU RENCANA KONTEN
 - Javascript Framework
   * Electron
   * NodeJs
+  * Angular
+  * Vue
 - Struktur Data
 - Java
 - Vlogs
+- Python
