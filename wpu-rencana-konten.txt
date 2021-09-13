@@ -1,6 +1,10 @@
 WPU RENCANA KONTEN
-- PHP
+- PHP 
+- PHP Framework
+  * Laravel
+  * Codeigniter
 - Javascript Framework
+  * Npm
   * Electron
   * NodeJs
   * Angular
